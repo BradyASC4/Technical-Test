@@ -1,0 +1,26 @@
+.jumbotron{
+    background-color:maroon;
+    color:white;
+}
+
+
+@media(max-width:1334px){
+body{
+    text-align: center;
+    color: white;
+}
+.jumbotron{
+    text-align:center;
+}
+}
+@media(min-width:750px){
+
+}
+
+body {
+    background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4fc77328351191.56052d6554241.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color:black;
+    color: white;
+}
